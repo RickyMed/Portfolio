@@ -98,7 +98,7 @@ input, select, textarea {
 			transition: none !important;
 		}
 
-	body, input, select, textarea {
+	body, input, select, textarea, button {
 		color: #39393A;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
